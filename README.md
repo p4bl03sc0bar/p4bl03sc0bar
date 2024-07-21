@@ -1,19 +1,26 @@
+### Hello World, I'm P@bl0Esc0b4r:
 
-```shell
-$ echo "Hello World!" > README.md
-```
-    
-  
+<h1 align="center">
+  <a target="_blank">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
+  </a>
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; !
+  <a target="_blank">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
+  </a>
+</h1>
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sebaf96&hide=stars,issues&count_private=true&show_icons=true&theme=gotham"/>
+<br/>
+<br/>
+<a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebaf96&layout=compact&theme=gotham" />
-</a>
-----
 
-Credit: [sebaF96](https://github.com/sebaF96)
+- 🔭 I’m currently working on **Cyber Offensive Secrutiy**
+- 🌱 I’m currently learning **Programming/ Scripting, Web/Mobile Pentesting, Malware Development**
+- 👯 I’m looking to collaborate on **Offensive Research**
+- 😄 Pronouns : **He/Him/His**
 
-Last Edited on: 23/09/2020
+
+<br/>
+<br/>
