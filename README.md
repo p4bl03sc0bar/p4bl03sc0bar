@@ -1,10 +1,10 @@
-### Hello World, I'm P@bl0Esc0b4r:
+### Hello, I'm P@bl0Esc0b4r:
 
 <h1 align="center">
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
   </a>
-  𝐇𝐞𝐥𝐥𝐨, &lt;OffSecers/&gt; !
+  𝐇𝐞𝐥𝐥𝐨, &lt;TechWorld/&gt; !
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a>
@@ -17,8 +17,8 @@
 </a>
 
 - 🔭 I’m currently working on **Cyber Offensive Secrutiy**
-- 🌱 I’m currently learning **Programming/ Scripting, Web/Mobile Pentesting, Malware Development**
-- 👯 I’m looking to collaborate on **Offensive Research**
+- 🌱 I’m currently learning **Programming/ Scripting, Web/Mobile Pentesting, Malware Development, & Android Development**
+- 👯 I’m looking to collaborate on **Offensive Research or Android Application Project**
 - 😄 Pronouns : **He/Him/His**
 
 
